@@ -7,4 +7,6 @@ description: >
   <a href="https://scholar.google.com/citations?hl=en&user=_0K3XCwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener">Google Scholar</a> ·
   <a href="https://www.researchgate.net/profile/Shouzhi-Xia?ev=hdr_xprf"_blank" rel="noopener">ResearchGate</a>
 #show_downloads: true
+github:
+  is_project_page: false
 theme: jekyll-theme-minimal
