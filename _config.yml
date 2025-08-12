@@ -1,5 +1,8 @@
 title: Shouzhi Xia
 logo: docs/assets/photo.jpg
-description: Assistant Professor, Hunan University, China
+position: Assistant Professor
+affiliation: Hunan University, China
+email: kennethxia93@hotmail.com
+#description: Assistant Professor, Hunan University, China
 #show_downloads: true
 theme: jekyll-theme-minimal
