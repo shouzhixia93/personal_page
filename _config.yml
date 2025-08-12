@@ -1,5 +1,10 @@
 title: Shouzhi Xia
 logo: docs/assets/photo.jpg
-description: Assistant Professor, Hunan University, China
+description: >
+  Assistant Professor, Hunan University, China
+  <br>
+  <a href="mailto:kennethxia93@hotmail.com">Email</a> ·
+  <a href="https://scholar.google.com/citations?hl=en&user=_0K3XCwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener">Google Scholar</a> ·
+  <a href="https://www.researchgate.net/profile/Shouzhi-Xia?ev=hdr_xprf"_blank" rel="noopener">ResearchGate</a>
 #show_downloads: true
 theme: jekyll-theme-minimal
