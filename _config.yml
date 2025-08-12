@@ -1,5 +1,70 @@
 title: Shouzhi Xia
 logo: docs/assets/photo.jpg
 description: Assistant Professor, Hunan University, China
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.4/css/academicons.min.css">
+<style>
+  /* Scoped styles so they don't affect the rest of your theme */
+  .sx-social {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 12px;
+  }
+  .sx-social a.sx-btn {
+    width: 38px;
+    height: 38px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: #f7f7f7;
+    border: 1px solid #e5e5e5;
+    color: #222;
+    text-decoration: none;
+    transition: transform 0.15s ease, background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  }
+  .sx-social a.sx-btn:hover {
+    background: #111;
+    color: #fff;
+    border-color: #111;
+    transform: translateY(-1px);
+  }
+  .sx-social i {
+    font-size: 18px; /* icon size */
+    line-height: 1;
+  }
+
+  /* Optional: dark mode tweak if your theme supports it */
+  @media (prefers-color-scheme: dark) {
+    .sx-social a.sx-btn {
+      background: #222;
+      border-color: #333;
+      color: #ddd;
+    }
+    .sx-social a.sx-btn:hover {
+      background: #fff;
+      color: #000;
+      border-color: #fff;
+    }
+  }
+</style>
+
+<div class="sx-social" aria-label="Social links">
+  <!-- Google Scholar -->
+  <a class="sx-btn" href="https://scholar.google.com/citations?user=_0K3XCwAAAAJ&hl=en" target="_blank" rel="noopener" aria-label="Google Scholar" title="Google Scholar">
+    <i class="ai ai-google-scholar"></i>
+  </a>
+
+  <!-- ORCID -->
+  <a class="sx-btn" href="https://orcid.org/my-orcid?orcid=0000-0002-8201-2931" target="_blank" rel="noopener" aria-label="ORCID" title="ORCID">
+    <i class="ai ai-orcid"></i>
+  </a>
+
+  <!-- Email -->
+  <a class="sx-btn" href="mailto:kennethxia93@hotmail.com" aria-label="Email" title="Email">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+</div>
 #show_downloads: true
 theme: jekyll-theme-minimal
