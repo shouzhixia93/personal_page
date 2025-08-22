@@ -60,5 +60,5 @@ As an ad hoc reviewer for journals such as *British Journal of Political Science
 
 ---
 
-<img src="https://hitwebcounter.com/counter/counter.php?page=13792543&style=0009&nbdigits=5&type=page&initCount=0">
+<img src="https://hitwebcounter.com/counter/counter.php?page=13792543&style=0006&nbdigits=5&type=page&initCount=0">
 
