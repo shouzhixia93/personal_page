@@ -16,7 +16,7 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 -- Computational Social Science
 
-## Publication
+## Publications
 
 - From Maoism to MAGA: Embracing Democracy with Authoritarian Imprints, ***Comparative Politics***, *forthcoming*. (w/ Sibo Liu, Dong Zhang)
 
