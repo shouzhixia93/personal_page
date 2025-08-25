@@ -1,6 +1,6 @@
 ## About Me
 
-Welcome! I am currently an assistant professor at School of Public Administration, [Hunan University](https://www-en.hnu.edu.cn/), China. Prior to this, I was a lecturer (equivalent to assistant professor) at School of Political Science and Public Administration at [Wuhan University](https://en.whu.edu.cn/), China (2022-2025). I received my Ph.D. in Political Science from [Lingnan University, Hong Kong](https://www.ln.edu.hk/) in 2022. My work has been published or is forthcoming in journals such as *Comparative Politics*, *Policy Sciences*, *Political Behavior*, *Political Research Quarterly*, and *The China Quarterly*.
+Welcome! I am currently an assistant professor at School of Public Administration, [Hunan University](https://www-en.hnu.edu.cn/), China. Prior to this, I was a lecturer (equivalent to assistant professor) at School of Political Science and Public Administration at [Wuhan University](https://en.whu.edu.cn/), China (2022-2025). I received my Ph.D. in Political Science from [Lingnan University, Hong Kong](https://www.ln.edu.hk/) in 2022. My work has been published or is forthcoming in journals such as *Comparative Politics*, *Policy Studies Journal*, *Political Behavior*, *Political Research Quarterly*, and *The China Quarterly*.
 
 ## Research Interests
 
@@ -18,7 +18,9 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 ## Publications
 
-- From Maoism to MAGA: Embracing Democracy with Authoritarian Imprints, ***Comparative Politics***, *forthcoming*. (w/ Sibo Liu, Dong Zhang)
+- AI for Persuasion? How Policy Endorsement from Large Language Models Increases Citizens’ Compliance Willingness in China ***Policy Studies Journal***, *forthcoming*. (w/ Miao Xiang)
+
+- [From Maoism to MAGA: Embracing Democracy with Authoritarian Imprints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4106610), ***Comparative Politics***, *forthcoming*. (w/ Sibo Liu, Dong Zhang)
 
 - [Displaced Discrimination? Media Coverage of China and Public Attitudes Toward Chinese Immigrants in the United States](https://onlinelibrary.wiley.com/doi/abs/10.1111/apv.12449), ***Asia Pacific Viewpoint***, 2025, Online First. (w/ Chen Zhang, Pak Hung Lam)
 
@@ -42,11 +44,11 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 ## Working Papers and Projects
 
-- AI for persuasion *R&R*
-
 - Elite cues and public attitudes toward climate change *R&R*
 
 - Open data and political trust *R&R*
+
+- Education and trust *R&R*
 
 ## Teaching
 
