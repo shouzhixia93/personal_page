@@ -36,7 +36,7 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 - [Knowing more, worrying less? Internet use eases public concern about immigrant cultural threat](https://www.sciencedirect.com/science/article/abs/pii/S0160791X24001398), ***Technology in Society***, 2024, 77: 102591.
 
-- [Female members of parliament, right-wing parties, and the inclusiveness of immigration policy: evidence from 26 European countries](https://link.springer.com/article/10.1007/s11077-023-09516-3), ***Policy Sciences***, 2023, 56(4): 689-707.
+| <img src="docs/assets/prq.png" alt="JEAS" width="120" style="vertical-align:middle;"> | [Female members of parliament, right-wing parties, and the inclusiveness of immigration policy: evidence from 26 European countries](https://link.springer.com/article/10.1007/s11077-023-09516-3), ***Policy Sciences***, 2023, 56(4): 689-707. |
 
 | <img src="docs/assets/prq.png" alt="JEAS" width="120" style="vertical-align:middle;"> | [Amusing ourselves to loyalty? Entertainment, propaganda, and regime resilience in China](https://journals.sagepub.com/doi/abs/10.1177/10659129211049389), ***Political Research Quarterly***, 2022, 75(4): 1096-1112. |
 
