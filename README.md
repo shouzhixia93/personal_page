@@ -38,7 +38,7 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 - [Female members of parliament, right-wing parties, and the inclusiveness of immigration policy: evidence from 26 European countries](https://link.springer.com/article/10.1007/s11077-023-09516-3), ***Policy Sciences***, 2023, 56(4): 689-707.
 
-- [Amusing ourselves to loyalty? Entertainment, propaganda, and regime resilience in China](https://journals.sagepub.com/doi/abs/10.1177/10659129211049389), ***Political Research Quarterly***, 2022, 75(4): 1096-1112.
+| <img src="docs/assets/prq.png" alt="JEAS" width="120" style="vertical-align:middle;"> | [Amusing ourselves to loyalty? Entertainment, propaganda, and regime resilience in China](https://journals.sagepub.com/doi/abs/10.1177/10659129211049389), ***Political Research Quarterly***, 2022, 75(4): 1096-1112. |
 
 | <img src="docs/assets/jeas.jpg" alt="JEAS" width="120" style="vertical-align:middle;"> | [Framing as an information control strategy in times of crisis](https://www.cambridge.org/core/journals/journal-of-east-asian-studies/article/framing-as-an-information-control-strategy-in-times-of-crisis/7604E7F9879144E6257B5923C434A2BD), ***Journal of East Asian Studies***, 2022, 22(2): 255-279. (w/ Huang Huang, Dong Zhang) |
    
