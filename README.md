@@ -18,7 +18,7 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 ## Publications
 
-| <img src="docs/assets/psj_new.png" alt="PSJ" > | AI for Persuasion? How Policy Endorsement from Large Language Models Increases Citizens’ Compliance Willingness in China, ***Policy Studies Journal***, *Conditionally Accepted*. (w/ Miao Xiang)|
+| <img src="docs/assets/psj_new.png" alt="PSJ" width="120"> | AI for Persuasion? How Policy Endorsement from Large Language Models Increases Citizens’ Compliance Willingness in China, ***Policy Studies Journal***, *Conditionally Accepted*. (w/ Miao Xiang)|
 
 | <img src="docs/assets/cp_new.png" alt="CP" > | [From Maoism to MAGA: Embracing Democracy with Authoritarian Imprints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4106610), ***Comparative Politics***, *forthcoming*. (w/ Sibo Liu, Dong Zhang) |
 
