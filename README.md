@@ -32,13 +32,13 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 - [Demystifying the dynamics of China’s overseas image with a large-scale social media dataset](https://www.tandfonline.com/doi/abs/10.1080/17457289.2024.2421562), ***Journal of Elections, Public Opinion and Parties***, 2024, Online First.
 
-- [Sorrow under prosperity: how downtown residence influences the welfare of disabled people in China](https://www.tandfonline.com/doi/abs/10.1080/17516234.2024.2372136), ***Journal of Asian Public Policy***, 2024, Online First. (w/ Mengbing Du, Ning Qiu)
+| <img src="docs/assets/japp.jpg" alt="JAPP" width="120" style="vertical-align:middle;"> | [Sorrow under prosperity: how downtown residence influences the welfare of disabled people in China](https://www.tandfonline.com/doi/abs/10.1080/17516234.2024.2372136), ***Journal of Asian Public Policy***, 2024, Online First. (w/ Mengbing Du, Ning Qiu) |
 
-- [Knowing more, worrying less? Internet use eases public concern about immigrant cultural threat](https://www.sciencedirect.com/science/article/abs/pii/S0160791X24001398), ***Technology in Society***, 2024, 77: 102591.
+| <img src="docs/assets/tis.jpg" alt="TiS" width="120" style="vertical-align:middle;"> | [Knowing more, worrying less? Internet use eases public concern about immigrant cultural threat](https://www.sciencedirect.com/science/article/abs/pii/S0160791X24001398), ***Technology in Society***, 2024, 77: 102591. |
 
-| <img src="docs/assets/prq.png" alt="JEAS" width="120" style="vertical-align:middle;"> | [Female members of parliament, right-wing parties, and the inclusiveness of immigration policy: evidence from 26 European countries](https://link.springer.com/article/10.1007/s11077-023-09516-3), ***Policy Sciences***, 2023, 56(4): 689-707. |
+| <img src="docs/assets/ps.jpg" alt="PS" width="120" style="vertical-align:middle;"> | [Female members of parliament, right-wing parties, and the inclusiveness of immigration policy: evidence from 26 European countries](https://link.springer.com/article/10.1007/s11077-023-09516-3), ***Policy Sciences***, 2023, 56(4): 689-707. |
 
-| <img src="docs/assets/prq.png" alt="JEAS" width="120" style="vertical-align:middle;"> | [Amusing ourselves to loyalty? Entertainment, propaganda, and regime resilience in China](https://journals.sagepub.com/doi/abs/10.1177/10659129211049389), ***Political Research Quarterly***, 2022, 75(4): 1096-1112. |
+| <img src="docs/assets/prq.png" alt="PRQ" width="120" style="vertical-align:middle;"> | [Amusing ourselves to loyalty? Entertainment, propaganda, and regime resilience in China](https://journals.sagepub.com/doi/abs/10.1177/10659129211049389), ***Political Research Quarterly***, 2022, 75(4): 1096-1112. |
 
 | <img src="docs/assets/jeas.jpg" alt="JEAS" width="120" style="vertical-align:middle;"> | [Framing as an information control strategy in times of crisis](https://www.cambridge.org/core/journals/journal-of-east-asian-studies/article/framing-as-an-information-control-strategy-in-times-of-crisis/7604E7F9879144E6257B5923C434A2BD), ***Journal of East Asian Studies***, 2022, 22(2): 255-279. (w/ Huang Huang, Dong Zhang) |
    
