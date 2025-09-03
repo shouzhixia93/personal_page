@@ -18,9 +18,9 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 ## Publications
 
-| <img src="docs/assets/psj_new.png" alt="PSJ" width="120"> | AI for Persuasion? How Policy Endorsement from Large Language Models Increases Citizens’ Compliance Willingness in China, ***Policy Studies Journal***, *Conditionally Accepted*. (w/ Miao Xiang)|
+| <img src="docs/assets/psj_new.png" alt="PSJ" > | AI for Persuasion? How Policy Endorsement from Large Language Models Increases Citizens’ Compliance Willingness in China, ***Policy Studies Journal***, *Conditionally Accepted*. (w/ Miao Xiang)|
 
-| <img src="docs/assets/cp_new.png" alt="CP" > | [From Maoism to MAGA: Embracing Democracy with Authoritarian Imprints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4106610), ***Comparative Politics***, *forthcoming*. (w/ Sibo Liu, Dong Zhang) |
+| <img src="docs/assets/cp_new.png" alt="CP" width="150"> | [From Maoism to MAGA: Embracing Democracy with Authoritarian Imprints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4106610), ***Comparative Politics***, *forthcoming*. (w/ Sibo Liu, Dong Zhang) |
 
 | <img src="docs/assets/apv.png" alt="APV" style="width:100px; height:100px; object-fit:contain;"> | [Displaced Discrimination? Media Coverage of China and Public Attitudes Toward Chinese Immigrants in the United States](https://onlinelibrary.wiley.com/doi/abs/10.1111/apv.12449), ***Asia Pacific Viewpoint***, 2025, Online First. (w/ Chen Zhang, Pak Hung Lam)|
 
