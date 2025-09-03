@@ -26,7 +26,7 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 | <img src="docs/assets/ps.jpg" alt="PS" width="120" style="vertical-align:middle;"> | [Digital government construction and civic policy participation: evidence from China](https://link.springer.com/article/10.1007/s11077-025-09576-7), ***Policy Sciences***, 2025, 58(2): 345–367.|
 
-| <img src="docs/assets/cq.jpg" alt="CQ" width="80" style="vertical-align:middle;"> | [Fandom culture as a catalyst for propaganda](https://www.cambridge.org/core/journals/china-quarterly/article/abs/fandom-culture-as-a-catalyst-for-propaganda/F652D4643CDC257658C4D8305DFB2705), ***The China Quarterly***, 2024, 259: 814-823. |
+| <img src="docs/assets/cq.jpg" alt="CQ" width="120" style="vertical-align:middle;"> | [Fandom culture as a catalyst for propaganda](https://www.cambridge.org/core/journals/china-quarterly/article/abs/fandom-culture-as-a-catalyst-for-propaganda/F652D4643CDC257658C4D8305DFB2705), ***The China Quarterly***, 2024, 259: 814-823. |
 
 | <img src="docs/assets/pobe.jpg" alt="POBE" width="120" style="vertical-align:middle;"> | [Birds of a feather: Sharing democratic values eases immigration in a postmaterialist society](https://link.springer.com/article/10.1007/s11109-023-09900-y), ***Political Behavior***, 2024, 46(3): 1887-1911. (w/ Jin Jiang, Dong Zhang) |
 
