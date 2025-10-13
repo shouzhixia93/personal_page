@@ -128,9 +128,19 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 ## Teaching
 
--- Social Science Research Methods
+-- Instructor 
 
--- Digital Governance
+- Social Science Research Methods
+
+- Digital Governance 
+
+-- Teaching Assistant
+
+- Comparative Politics
+
+- Public Policy: Values & Processes
+
+- Media, Data and Politics
 
 ## Services
 
