@@ -61,7 +61,7 @@ Welcome! I am currently an assistant professor at School of Public Administratio
   </div>
 
   <div style="display:flex; align-items:center; margin-bottom:12px;">
-    <img src="docs/assets/cq.jpg" alt="CQ" width="50" height="50" style="margin-right:20px;">
+    <img src="docs/assets/cq.png" alt="CQ" width="50" height="50" style="margin-right:20px;">
     <span>
       <a href="https://www.cambridge.org/core/journals/china-quarterly/article/abs/fandom-culture-as-a-catalyst-for-propaganda/F652D4643CDC257658C4D8305DFB2705">Fandom culture as a catalyst for propaganda</a>, 
       <span style="font-style:italic; color:black;">The China Quarterly</span>, 2024, 259: 814-823.
