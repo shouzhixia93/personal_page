@@ -39,7 +39,7 @@ Welcome! I am currently an assistant professor at School of Public Administratio
   <div style="display:flex; align-items:center; margin-bottom:12px;">
     <img src="docs/assets/cp_new.png" alt="CP" width="50" height="50" style="margin-right:20px;">
     <span>
-      <a href="[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4106610](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2589;jsessionid=1tfqmkbwl3r5z.x-ic-live-01)">From Maoism to MAGA: Embracing Democracy with Authoritarian Imprints</a>, 
+      <a href="https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2589;jsessionid=1tfqmkbwl3r5z.x-ic-live-01">From Maoism to MAGA: Embracing Democracy with Authoritarian Imprints</a>, 
       <span style="font-style:italic; color:black;">Comparative Politics</span>, 2025, Online First. (w/ Sibo Liu, Dong Zhang)
     </span>
   </div>
