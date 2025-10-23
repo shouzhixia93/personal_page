@@ -4,17 +4,15 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 ## Research Interests
 
--- Media & Politics
-
 -- Public Opinion
 
--- Public Policy 
+-- Media & Politics
 
--- Governance
+-- Chinese Politics
 
--- China
+-- Comparative Politics
 
--- Computational Social Science
+-- Governance and Public Policy Analysis
 
 ## Publications
 
