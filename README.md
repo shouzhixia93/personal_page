@@ -42,7 +42,7 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 - [Framing as an information control strategy in times of crisis](https://www.cambridge.org/core/journals/journal-of-east-asian-studies/article/framing-as-an-information-control-strategy-in-times-of-crisis/7604E7F9879144E6257B5923C434A2BD), *Journal of East Asian Studies*, 2022, 22(2): 255–279. (w/ Huang Huang, Dong Zhang)
    
-## Working Papers and Projects
+## Selected Working Papers
 
 - Open data and political trust *R&R*
 
