@@ -7,7 +7,7 @@ description: >
   <a href="https://scholar.google.com/citations?hl=en&user=_0K3XCwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener">Google Scholar</a> ·
   <a href="https://www.researchgate.net/profile/Shouzhi-Xia?ev=hdr_xprf"_blank" rel="noopener">ResearchGate</a>
   <br><br><br><br>
-  <img src="docs/assets/journal_coverpage.png" alt="CP" width="300" style="display:block;margin:10px auto 0 auto;border-radius:10px;">
+  <img src="docs/assets/journal_coverpage.png" alt="CP" width="300" style="display:block;margin:5px auto 0 auto;border-radius:10px;">
 #show_downloads: true
 github:
   is_project_page: false
