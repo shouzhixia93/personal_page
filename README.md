@@ -18,7 +18,7 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 - Elite Cues and Public Climate Attitudes: The Influence of the Trump Presidency on Republicans’ Attitudes Toward Global Warming, *International Political Science Review*, *Accepted* (w/ Mengbing Du)
 
-- AI for Persuasion? How Policy Endorsement from Large Language Models Increases Citizens’ Compliance Willingness in China, *Policy Studies Journal*, *Accepted* (w/ Miao Xiang)
+- [AI for Persuasion? How Policy Endorsement from Large Language Models Increases Citizens’ Compliance Willingness in China](https://onlinelibrary.wiley.com/doi/10.1111/psj.70086), *Policy Studies Journal*, 2025, Online First. (w/ Miao Xiang)
 
 - [From Maoism to MAGA: Embracing Democracy with Authoritarian Imprints](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2589;jsessionid=1tfqmkbwl3r5z.x-ic-live-01), *Comparative Politics*, 2025, Online First. (w/ Sibo Liu, Dong Zhang)
 
