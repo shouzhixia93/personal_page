@@ -1,22 +1,12 @@
 title: Shouzhi Xia
 logo: docs/assets/photo_new.jpg
 description: >
-  <style>
-    .site-logo img { width: 200px !important; height: 280px !important; object-fit: cover; border-radius: 50%; border: 6px solid white; box-shadow: 0 10px 30px rgba(0,0,0,0.2); }
-    
-    .site-title { font-size: 30px !important; font-weight: 700; }
-
-    .site-description { font-size: 20px !important; line-height: 1.8; }
-
-    .site-description a { font-size: 20px !important; font-weight: 500; }
-  </style>
-  
   Assistant Professor, Hunan University, China
   <br>
   <a href="mailto:kennethxia93@hotmail.com">Email</a> ·
   <a href="https://scholar.google.com/citations?hl=en&user=_0K3XCwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener">Google Scholar</a> ·
   <a href="https://www.researchgate.net/profile/Shouzhi-Xia?ev=hdr_xprf"_blank" rel="noopener">ResearchGate</a>
-  <br><br><br><br>
+  <br>
   <img src="docs/assets/journal_coverpage.png" 
      alt="Journal covers" 
      style="max-width: 100%; height: auto; width: 200px; display: block; margin: 0 auto; border-radius: 10px;">
