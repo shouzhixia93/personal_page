@@ -1,6 +1,16 @@
 title: Shouzhi Xia
 logo: docs/assets/photo_new.jpg
 description: >
+  <style>
+    .site-logo img { width: 200px !important; height: 280px !important; object-fit: cover; border-radius: 50%; border: 6px solid white; box-shadow: 0 10px 30px rgba(0,0,0,0.2); }
+    
+    .site-title { font-size: 30px !important; font-weight: 700; }
+
+    .site-description { font-size: 20px !important; line-height: 1.8; }
+
+    .site-description a { font-size: 20px !important; font-weight: 500; }
+  </style>
+  
   Assistant Professor, Hunan University, China
   <br>
   <a href="mailto:kennethxia93@hotmail.com">Email</a> ·
@@ -9,10 +19,8 @@ description: >
   <br><br><br><br>
   <img src="docs/assets/journal_coverpage.png" 
      alt="Journal covers" 
-     style="max-width: 100%; height: auto; width: 100px; display: block; margin: 0 auto; border-radius: 10px;">
+     style="max-width: 100%; height: auto; width: 200px; display: block; margin: 0 auto; border-radius: 10px;">
 #show_downloads: true
-assets:
-  stylesheet: /assets/style.scss
 github:
   is_project_page: false
 theme: jekyll-theme-minimal
