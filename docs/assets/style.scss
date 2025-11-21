@@ -1,1 +1,34 @@
+.site-logo img {
+    width: 200px !important;
+    height: 200px !important;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid #ffffff;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
 
+.site-title {
+    font-size: 2.5rem !important;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.site-description {
+    font-size: 1.25rem !important;
+    line-height: 1.8;
+}
+
+.site-description a {
+    font-size: 1.25rem !important;
+    font-weight: 500;
+    color: #0366d6;
+}
+
+.img-journal {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0px auto;
+    border-radius: 50%;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
