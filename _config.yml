@@ -9,6 +9,8 @@ description: >
   <br><br><br><br>
   <img src="docs/assets/journal_coverpage.png" alt="CP" width="300" style="display:block;margin:0px auto 0 auto;border-radius:10px;">
 #show_downloads: true
+assets:
+  stylesheet: /assets/style.scss
 github:
   is_project_page: false
 theme: jekyll-theme-minimal
