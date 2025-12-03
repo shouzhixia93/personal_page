@@ -22,7 +22,7 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 - [From Maoism to MAGA: Embracing Democracy with Authoritarian Imprints](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2589;jsessionid=1tfqmkbwl3r5z.x-ic-live-01), *Comparative Politics*, 2025, Online First. (w/ Sibo Liu, Dong Zhang)
 
-- [Displaced Discrimination? Media Coverage of China and Public Attitudes Toward Chinese Immigrants in the United States](https://onlinelibrary.wiley.com/doi/abs/10.1111/apv.12449), *Asia Pacific Viewpoint*, 2025, Online First. (w/ Chen Zhang, Pak Hung Lam)
+- [Displaced Discrimination? Media Coverage of China and Public Attitudes Toward Chinese Immigrants in the United States](https://onlinelibrary.wiley.com/doi/abs/10.1111/apv.12449), *Asia Pacific Viewpoint*, 2025, 66(3): 315–327. (w/ Chen Zhang, Pak Hung Lam)
 
 - [Digital government construction and civic policy participation: evidence from China](https://link.springer.com/article/10.1007/s11077-025-09576-7), *Policy Sciences*, 2025, 58(2): 345–367. 
  
