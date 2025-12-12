@@ -16,7 +16,7 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 ## Publications
 
-- Elite Cues and Public Climate Attitudes: The Influence of the Trump Presidency on Republicans’ Attitudes Toward Global Warming, *International Political Science Review*, *Accepted* (w/ Mengbing Du)
+- [Elite Cues and Public Climate Attitudes: The Influence of the Trump Presidency on Republicans’ Attitudes Toward Global Warming](https://journals.sagepub.com/doi/10.1177/01925121251392944), *International Political Science Review*, 2025, Online First. (w/ Mengbing Du)
 
 - [AI for Persuasion? How Policy Endorsement from Large Language Models Increases Citizens’ Compliance Willingness in China](https://onlinelibrary.wiley.com/doi/10.1111/psj.70086), *Policy Studies Journal*, 2025, Online First. (w/ Miao Xiang)
 
