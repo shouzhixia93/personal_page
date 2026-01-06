@@ -16,11 +16,11 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 ## Publications
 
+- [From Maoism to MAGA: Embracing Democracy with Authoritarian Imprints](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2589;jsessionid=1tfqmkbwl3r5z.x-ic-live-01), *Comparative Politics*, 2026, 58(2): 149-172. (w/ Sibo Liu, Dong Zhang)
+
 - [Elite Cues and Public Climate Attitudes: The Influence of the Trump Presidency on Republicans’ Attitudes Toward Global Warming](https://journals.sagepub.com/doi/10.1177/01925121251392944), *International Political Science Review*, 2025, Online First. (w/ Mengbing Du)
 
 - [AI for Persuasion? How Policy Endorsement from Large Language Models Increases Citizens’ Compliance Willingness in China](https://onlinelibrary.wiley.com/doi/10.1111/psj.70086), *Policy Studies Journal*, 2025, Online First. (w/ Miao Xiang)
-
-- [From Maoism to MAGA: Embracing Democracy with Authoritarian Imprints](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2589;jsessionid=1tfqmkbwl3r5z.x-ic-live-01), *Comparative Politics*, 2025, Online First. (w/ Sibo Liu, Dong Zhang)
 
 - [Displaced Discrimination? Media Coverage of China and Public Attitudes Toward Chinese Immigrants in the United States](https://onlinelibrary.wiley.com/doi/abs/10.1111/apv.12449), *Asia Pacific Viewpoint*, 2025, 66(3): 315–327. (w/ Chen Zhang, Pak Hung Lam)
 
@@ -68,4 +68,4 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 ## Services
 
-As an ad hoc reviewer for journals such as *British Journal of Political Science*, *Information, Communication & Society*, *Journal of Contemporary China*, *Poetics*, *Political Behavior*, and *Public Performance & Management Review*.
+As an ad hoc reviewer for *British Journal of Political Science*, *Information, Communication & Society*, *Journal of Chinese Governance*, *Journal of Contemporary China*, *Journal of Current Chinese Affairs*, *Poetics*, *Political Behavior*, and *Public Performance & Management Review*.
