@@ -68,4 +68,4 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 ## Services
 
-As an ad hoc reviewer for *British Journal of Political Science*, *Information, Communication & Society*, *Journal of Contemporary China*, *Journal of Current Chinese Affairs*, *Poetics*, *Political Behavior*, and *Public Performance & Management Review*.
+As an ad hoc reviewer for *Asian Journal of Social Science*, *British Journal of Political Science*, *Information, Communication & Society*, *Journal of Contemporary China*, *Journal of Current Chinese Affairs*, *Poetics*, *Political Behavior*, *Public Performance & Management Review*, and *Scientific Reports*.
