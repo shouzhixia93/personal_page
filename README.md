@@ -18,6 +18,8 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 - [From Maoism to MAGA: Embracing Democracy with Authoritarian Imprints](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2589;jsessionid=1tfqmkbwl3r5z.x-ic-live-01), *Comparative Politics*, 2026, 58(2): 149-172. (w/ Sibo Liu, Dong Zhang)
 
+- [Sorrow under prosperity: how downtown residence influences the welfare of disabled people in China](https://www.tandfonline.com/doi/abs/10.1080/17516234.2024.2372136), *Journal of Asian Public Policy*, 2026, 19(1): 257-276. (w/ Mengbing Du, Ning Qiu) 
+
 - [Elite Cues and Public Climate Attitudes: The Influence of the Trump Presidency on Republicans’ Attitudes Toward Global Warming](https://journals.sagepub.com/doi/10.1177/01925121251392944), *International Political Science Review*, 2025, Online First. (w/ Mengbing Du)
 
 - [AI for Persuasion? How Policy Endorsement from Large Language Models Increases Citizens’ Compliance Willingness in China](https://onlinelibrary.wiley.com/doi/10.1111/psj.70086), *Policy Studies Journal*, 2025, Online First. (w/ Miao Xiang)
@@ -31,8 +33,6 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 - [Birds of a feather: Sharing democratic values eases immigration in a postmaterialist society](https://link.springer.com/article/10.1007/s11109-023-09900-y), *Political Behavior*, 2024, 46(3): 1887–1911. (w/ Jin Jiang, Dong Zhang)
 
 - [Demystifying the dynamics of China’s overseas image with a large-scale social media dataset](https://www.tandfonline.com/doi/abs/10.1080/17457289.2024.2421562), *Journal of Elections, Public Opinion and Parties*, 2024, Online First.
-
-- [Sorrow under prosperity: how downtown residence influences the welfare of disabled people in China](https://www.tandfonline.com/doi/abs/10.1080/17516234.2024.2372136), *Journal of Asian Public Policy*, 2024, Online First. (w/ Mengbing Du, Ning Qiu) 
 
 - [Knowing more, worrying less? Internet use eases public concern about immigrant cultural threat](https://www.sciencedirect.com/science/article/abs/pii/S0160791X24001398), *Technology in Society*, 2024, 77: 102591. 
 
@@ -68,4 +68,4 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 ## Services
 
-As an ad hoc reviewer for *Asian Journal of Social Science*, *British Journal of Political Science*, *Information, Communication & Society*, *Journal of Contemporary China*, *Journal of Current Chinese Affairs*, *Poetics*, *Political Behavior*, *Public Performance & Management Review*, and *Scientific Reports*.
+As an ad hoc reviewer for *Asian Journal of Social Science*, *British Journal of Political Science*, *China Quarterly*, *Information, Communication & Society*, *Journal of Chinese Governance*, *Journal of Contemporary China*, *Journal of Current Chinese Affairs*, *Poetics*, *Political Behavior*, *Public Performance & Management Review*, and *Scientific Reports*.
