@@ -54,6 +54,8 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 -- Instructor 
 
+- Big Data and Public Policy
+
 - Social Science Research Methods
 
 - Digital Governance 
