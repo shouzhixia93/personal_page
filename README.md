@@ -16,6 +16,10 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 ## Publications
 
+- In Transparent Government We Trust: Open Government Data, Transparency Perception, and Public Trust in China, *Public Management Review*, Forthcoming. (w/ Chen Zhang)
+
+- Learning to Question Authority? Higher Education and Political Trust in China, *Journal of Contemporary China*, Forthcoming.
+
 - [From Maoism to MAGA: Embracing Democracy with Authoritarian Imprints](https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2589;jsessionid=1tfqmkbwl3r5z.x-ic-live-01), *Comparative Politics*, 2026, 58(2): 149-172. (w/ Sibo Liu, Dong Zhang)
 
 - [Sorrow under prosperity: how downtown residence influences the welfare of disabled people in China](https://www.tandfonline.com/doi/abs/10.1080/17516234.2024.2372136), *Journal of Asian Public Policy*, 2026, 19(1): 257-276. (w/ Mengbing Du, Ning Qiu) 
@@ -44,11 +48,9 @@ Welcome! I am currently an assistant professor at School of Public Administratio
    
 ## Selected Working Papers
 
-- Open data and political trust *R&R*
-
-- Education and trust *R&R*
-
 - Social media and polarization *R&R*
+
+- Disinformation and Polarization
 
 ## Teaching
 
@@ -70,4 +72,4 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 
 ## Services
 
-As an ad hoc reviewer for *Asian Journal of Social Science*, *British Journal of Political Science*, *China Quarterly*, *Information, Communication & Society*, *Journal of Chinese Governance*, *Journal of Contemporary China*, *Journal of Current Chinese Affairs*, *Poetics*, *Political Behavior*, *Public Performance & Management Review*, and *Scientific Reports*.
+As an ad hoc reviewer for *Asian Journal of Social Science*, *British Journal of Political Science*, *China Quarterly*, *Information, Communication & Society*, *Journal of Chinese Governance*, *Journal of Contemporary China*, *Journal of Current Chinese Affairs*, *Poetics*, *Political Behavior*, *Public Performance & Management Review*, *Review of Policy Research*, and *Scientific Reports*.
