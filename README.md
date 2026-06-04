@@ -1,6 +1,6 @@
 ## About Me
 
-Welcome! I am currently an assistant professor at School of Public Administration, [Hunan University](https://www-en.hnu.edu.cn/), China. Prior to this, I was a lecturer (equivalent to assistant professor) at School of Political Science and Public Administration, [Wuhan University](https://en.whu.edu.cn/), China (2022-2025). I received my Ph.D. in Political Science from [Lingnan University, Hong Kong](https://www.ln.edu.hk/) in 2022. My work has been published or is forthcoming in journals such as *Comparative Politics*, *Policy Studies Journal*, *Political Behavior*, *Political Research Quarterly*, and *The China Quarterly*.
+Welcome! I am currently an assistant professor at School of Public Administration, [Hunan University](https://www-en.hnu.edu.cn/), China. Prior to this, I was a lecturer (equivalent to assistant professor) at School of Political Science and Public Administration, [Wuhan University](https://en.whu.edu.cn/), China (2022-2025). I received my Ph.D. in Political Science from [Lingnan University, Hong Kong](https://www.ln.edu.hk/) in 2022. My work has been published or is forthcoming in journals such as *Comparative Politics*, *Perspectives on Politics*, *Policy Studies Journal*, *Political Behavior*, *Political Research Quarterly*, and *The China Quarterly*.
 
 ## Research Interests
 
@@ -15,6 +15,8 @@ Welcome! I am currently an assistant professor at School of Public Administratio
 -- Governance and Public Policy Analysis
 
 ## Publications
+
+- The Disappearance of Political Moderates Online: How the Privacy Function of Social Media Amplifies Observed Political Polarization, *Perspectives on Politics*, 2026, Accepted. (w/Fuhai Hong, Chen Zhang)
 
 - [In Transparent Government We Trust: Open Government Data, Transparency Perception, and Public Trust in China](https://www.tandfonline.com/doi/abs/10.1080/14719037.2026.2632703), *Public Management Review*, 2026, Online First. (w/ Chen Zhang)
 
@@ -48,9 +50,11 @@ Welcome! I am currently an assistant professor at School of Public Administratio
    
 ## Selected Working Papers
 
-- Social media and polarization *R&R*
+- The Tariff Stick and the Nationalist Rally
 
 - Disinformation and Polarization
+
+- Cultivating Active Citizens
 
 ## Teaching
 
