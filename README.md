@@ -54,7 +54,7 @@ Welcome! I am currently an associate professor at School of Public Administratio
 
 - Disinformation and Polarization *R&R*
   
-- The Tariff Stick and the Nationalist Rally
+- The Tariff Stick and the Nationalist Rally *R&R*
   
 - Cultivating Active Citizens
 
