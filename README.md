@@ -16,7 +16,7 @@ Welcome! I am currently an associate professor at School of Public Administratio
 
 ## Publications
 
-- The Disappearance of Political Moderates Online: How the Privacy Function of Social Media Amplifies Observed Political Polarization, *Perspectives on Politics*, 2026, Accepted. (w/ Fuhai Hong, Chen Zhang)
+- [The Disappearance of Political Moderates Online: How the Privacy Function of Social Media Amplifies Observed Political Polarization](https://doi.org/10.1017/S1537592726105751), *Perspectives on Politics*, 2026, Online First. (w/ Fuhai Hong, Chen Zhang)
 
 - [AI “nationality”, policy types, and public support for embedding AI in policymaking](https://link.springer.com/article/10.1007/s11077-026-09618-8), *Policy Sciences*, 2026, Online First.
 
