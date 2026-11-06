@@ -18,7 +18,7 @@ Welcome! I am currently an associate professor at School of Public Administratio
 
 -- Forthcoming
 
-- Weaponizing Disinformation: Elite Disinformation Manipulation and the Rise of Polarization, *Democratization*, Accepted. (w/ Jinnan Liu)
+- Weaponizing Disinformation: Elite Disinformation Manipulation and the Rise of Polarization, *Democratization*, Accepted. (w/ Jingnan Liu)
 
 - [The Disappearance of Political Moderates Online: How the Privacy Function of Social Media Amplifies Observed Political Polarization](https://doi.org/10.1017/S1537592726105751), *Perspectives on Politics*, Online First. (w/ Fuhai Hong, Chen Zhang)
 
